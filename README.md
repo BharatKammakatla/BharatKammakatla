@@ -31,7 +31,7 @@
 
 [![Linkedin: BharatKammakatla](https://img.shields.io/badge/-bharatkammakatla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatkammakatla/)](https://www.linkedin.com/in/bharatkammakatla/)
 [![GitHub BharatKammakatla](https://img.shields.io/github/followers/BharatKammakatla?label=follow&style=social)](https://github.com/BharatKammakatla)
-[![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammkatla.com-2648ff?style=flat-square&logo=google-chrome)](https://bharatkammakatla.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammakatla.com-2648ff?style=flat-square&logo=google-chrome)](https://bharatkammakatla.com/)
 
 
 **Languages and Tools:**  
