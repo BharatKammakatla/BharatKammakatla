@@ -9,6 +9,9 @@
 <a href="https://github.com/BharatKammakatla">
   <img align="left" alt="Bharat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="mailto:bharatkammakatla.com">
+  <img align="left" alt="Bharat's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 
 <br/>
