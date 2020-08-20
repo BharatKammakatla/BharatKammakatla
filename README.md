@@ -59,5 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BharatKammakatla&show_icons=true&theme=light" alt="Bharat's github stats"/>
 </a>
 
+<br />
+<br />
 
->Show some ❤️ by starring(⭐) some of the repositories!
+> *Show some ❤️ by starring(⭐) some of the repositories !*
