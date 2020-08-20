@@ -21,6 +21,8 @@
 </a>
 
 
+<br />
+<br />
 
 
 - 🔭 I’m currently working on Test Automation.
@@ -54,18 +56,16 @@
 <img align="left" height="26" width="26" alt="react" src="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png" />
 <img align="left" height="26" width="26" alt="apache-maven" src="https://user-images.githubusercontent.com/28840761/89373834-51d21500-d71c-11ea-8799-b80a6c095b67.png" />
 
-
+<br />
+<br />
 
 **Stats:** 
 
 <a href="https://github.com/BharatKammakatla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatKammakatla&theme=light&hide_langs_below=1" />
-</a>  
-<a href="https://github.com/BharatKammakatla">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BharatKammakatla&show_icons=true&theme=light&line_height=27" alt="Bharat's github stats"/>
 </a>
 
-
+<br />
 
 <div align="center">
 
