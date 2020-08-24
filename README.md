@@ -51,13 +51,4 @@
 <br />
 <br />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkammakatla&layout=compact&hide=html" alt="Bharat's languages" />
-</p>
-
-<br />
-<br />
-
-<p>&nbsp;&nbsp;
-  Show some ❤️ by starring(⭐) some of the repositories !
-</p>
+> *Show some ❤️ by starring(⭐) some of the repositories !*
