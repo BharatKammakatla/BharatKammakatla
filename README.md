@@ -28,8 +28,8 @@
 - 📫 How to reach me: [Linked In](https://linkedin.com/in/bharatkammakatla), [GMail](mailto:bharatkammakatla@gmail.com)
 - 😄 Pronouns: He/His
 
-[![Linkedin: BharatKammakatla](https://img.shields.io/badge/-bharatkammakatla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatkammakatla/)](https://www.linkedin.com/in/bharatkammakatla/)
-[![GitHub BharatKammakatla](https://img.shields.io/github/followers/BharatKammakatla?label=follow&style=social)](https://github.com/BharatKammakatla)
+[![Linkedin: BharatKammakatla](https://img.shields.io/badge/-bharatkammakatla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatkammakatla/)](https://www.linkedin.com/in/bharatkammakatla/)&nbsp;&nbsp;&nbsp;
+[![GitHub BharatKammakatla](https://img.shields.io/github/followers/BharatKammakatla?label=follow&style=social)](https://github.com/BharatKammakatla)&nbsp;&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammakatla.com-2648ff?style=plastic&logo=google-chrome)](https://bharatkammakatla.com/)
 
 
@@ -42,12 +42,6 @@
 
 <a href="https://github.com/BharatKammakatla">
   <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api?username=BharatKammakatla&show_icons=true&theme=light" alt="Bharat's github stats"/>
-</a>
-
-<br />
-
-<a href="https://github.com/BharatKammakatla">
-  <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api/top-langs/?username=bharatkammakatla&layout=compact&hide=html" alt="bharatkammakatla" alt="Bharat's github stats"/>
 </a>
 
 <br />
