@@ -41,7 +41,7 @@
 **Stats:**
 
 <a href="https://github.com/BharatKammakatla">
-  <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api?username=BharatKammakatla&show_icons=true&theme=light" alt="Bharat's github stats"/>
+  <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api?username=BharatKammakatla&show_icons=true&theme=dark" alt="Bharat's github stats"/>
 </a>
 
 <br />
