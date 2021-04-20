@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BharatKammakatla&label=Views&color=blue&style=for-the-badge" alt="BharatKammakatla" /> </p>
 
 <a href="https://linkedin.com/in/bharatkammakatla">
-  <img align="left" alt="Bharat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Bharat's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/BharatKammakatla">
-  <img align="left" alt="Bharat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Bharat's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="mailto:bharatkammakatla.com">
   <img align="left" alt="Bharat's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/Bharat__K">
-  <img align="left" alt="Bharat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Bharat's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://blog.bharatkammakatla.com">
   <img align="left" alt="Bharat's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
