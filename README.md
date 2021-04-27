@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BharatKammakatla&label=Views&color=blue&style=for-the-badge" alt="BharatKammakatla" /> </p>
 
-<br>
-
 - 🔭 I’m currently working on Test Automation.
 - 🌱 I’m currently learning FrontEnd Development & Data Science.
 - 👯 I’m looking to collaborate on FrontEndDevelopment & TestAutomation projects.
