@@ -2,34 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BharatKammakatla&label=Views&color=blue&style=for-the-badge" alt="BharatKammakatla" /> </p>
 
-<a href="https://linkedin.com/in/bharatkammakatla">
-  <img align="left" alt="Bharat's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://github.com/BharatKammakatla">
-  <img align="left" alt="Bharat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:bharatkammakatla.com">
-  <img align="left" alt="Bharat's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/Bharat__K">
-  <img align="left" alt="Bharat's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://blog.bharatkammakatla.com">
-  <img align="left" alt="Bharat's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
-</a>
-
-<br />
-<br />
+<br>
 
 - 🔭 I’m currently working on Test Automation.
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on DataScience & TestAutomation projects.
-- 🤔 I’m looking for help with ML algorithms.
+- 🌱 I’m currently learning FrontEnd Development & Data Science.
+- 👯 I’m looking to collaborate on FrontEndDevelopment & TestAutomation projects.
+- 🤔 I’m looking for help with UI development frameworks.
 - 📫 How to reach me: [Linked In](https://linkedin.com/in/bharatkammakatla), [GMail](mailto:bharatkammakatla@gmail.com)
-- 😄 Pronouns: He/His
+
 
 [![Linkedin: BharatKammakatla](https://img.shields.io/badge/-bharatkammakatla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatkammakatla/)](https://www.linkedin.com/in/bharatkammakatla/)&nbsp;&nbsp;&nbsp;
-[![GitHub BharatKammakatla](https://img.shields.io/github/followers/BharatKammakatla?label=follow&style=social)](https://github.com/BharatKammakatla)&nbsp;&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammakatla.com-2648ff?style=plastic&logo=google-chrome)](https://bharatkammakatla.com/)
 
 
@@ -41,10 +23,9 @@
 **Stats:**
 
 <a href="https://github.com/BharatKammakatla">
-  <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api?username=BharatKammakatla&show_icons=true&theme=dark" alt="Bharat's github stats"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bharatkammakatla&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkammakatla&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
-<br />
 <br />
 
 > *Show some ❤️ by starring(⭐) some of the repositories !*
