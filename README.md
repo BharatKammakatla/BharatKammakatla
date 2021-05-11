@@ -8,10 +8,10 @@
 - 🤔 I’m looking for help with UI development frameworks.
 - 📫 How to reach me: [Linked In](https://linkedin.com/in/bharatkammakatla), [GMail](mailto:bharatkammakatla@gmail.com)
 
-
+<!---
 [![Linkedin: BharatKammakatla](https://img.shields.io/badge/-bharatkammakatla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatkammakatla/)](https://www.linkedin.com/in/bharatkammakatla/)&nbsp;&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammakatla.com-2648ff?style=plastic&logo=google-chrome)](https://bharatkammakatla.com/)
-
+-->
 
 **Languages and Tools:**
 
